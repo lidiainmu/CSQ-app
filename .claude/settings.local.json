@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun --version)",
+      "Bash(brew link *)",
+      "Bash(sudo brew link --overwrite node)",
+      "Bash(npx tsc *)"
+    ]
+  }
+}
